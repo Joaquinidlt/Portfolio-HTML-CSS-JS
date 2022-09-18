@@ -6,7 +6,7 @@
 }
 
 .profile-img-section {
-    position: relative;
+    
 }
 
 .profile-img-line {
@@ -91,5 +91,9 @@
     
     .profile-btn {
         font-size: 28px;
+    }
+    .profile-img-section {
+        position: relative;
+        
     }
 }
